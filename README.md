@@ -28,3 +28,5 @@ Built an end-to-end business intelligence solution using Power BI, Excel, Power 
 
 ### Returns Dashboard
 <img width="1467" height="712" alt="RETURNS DASHBOARD" src="https://github.com/user-attachments/assets/c25bf194-43fb-494b-a12c-c4f272b1d206" />
+
+Note: The Power BI (.pbix) file is not included in this repository due to file size limitations. Dashboard screenshots and project documentation are provided for review.
