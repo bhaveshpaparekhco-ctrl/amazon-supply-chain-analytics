@@ -1,4 +1,5 @@
 # Amazon Supply Chain & Operations Analytics Dashboard
+<img width="1476" height="735" alt="EXECUTIVE SUMMARY" src="https://github.com/user-attachments/assets/1014d943-482c-4c5f-93d7-3de117d4e2e1" />
 
 ## Project Overview
 
